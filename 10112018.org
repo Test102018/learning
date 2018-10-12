@@ -1,0 +1,22 @@
+
+* TODO meaning
+  - State "TODO"       from              [2018-10-11 Thu 22:35] \\
+    Read
+** verb
+*** make
+** prep
+*** at
+* TODO phrases
+  - State "TODO"       from              [2018-10-11 Thu 22:36] \\
+    Recite
+** verb
+*** add, answer
+** prep
+*** at
+* NEXT plan
+  - State "NEXT"       from              [2018-10-11 Thu 22:34] \\
+    Check it everyday!
+** verb
+ - at least 2/day
+** prep
+ - at least 1/day
