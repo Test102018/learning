@@ -1,22 +1,18 @@
 
-* DONE meaning
-  - State "DONE"       from "TODO"       [2018-10-14 Sun 23:18] \\
-    good
+* TODO meaning
   - State "TODO"       from              [2018-10-11 Thu 22:35] \\
     Read
 ** verb
-*** make
+*** have
 ** prep
-*** at
-* DONE phrases
-  - State "DONE"       from "TODO"       [2018-10-14 Sun 23:21] \\
-    recite at phrases more
+*** for
+* TODO phrases
   - State "TODO"       from              [2018-10-11 Thu 22:36] \\
     Recite
 ** verb
-*** add, answer
+*** appear, ask
 ** prep
-*** at
+*** for
 * NEXT plan
   - State "NEXT"       from              [2018-10-11 Thu 22:34] \\
     Check it everyday!
